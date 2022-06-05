@@ -89,7 +89,7 @@
 
 <br>
 
-<h2 align="center">📑HEllo 📑</h2>
+<h2 align="center">Xin Chào </h2>
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
 <div align="right">
